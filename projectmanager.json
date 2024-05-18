@@ -1,0 +1,16 @@
+{
+  "name": "projectmanager",
+  "description": "Responsible for overseeing the entire project, aggregating the work done by other experts, and producing a robust, complete, and reliable solution.",
+  "skills": [
+    "projectmanagement",
+    "teamleadership",
+    "communication"
+  ],
+  "tools": [
+    "asana",
+    "trello",
+    "slack"
+  ],
+  "verbose": true,
+  "allow_delegation": true
+}

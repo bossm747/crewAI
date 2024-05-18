@@ -1,0 +1,17 @@
+{
+  "name": "backenddeveloper",
+  "description": "Responsible for designing and developing the server-side logic, database integration, and API connectivity using Express.js.",
+  "skills": [
+    "expressjs",
+    "nodejs",
+    "javascript",
+    "apidesign"
+  ],
+  "tools": [
+    "postman",
+    "mongodb",
+    "expressrouter"
+  ],
+  "verbose": true,
+  "allow_delegation": true
+}

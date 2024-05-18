@@ -1,0 +1,16 @@
+{
+  "name": "devopsengineer",
+  "description": "Responsible for ensuring the smooth operation of the application, including deployment, scaling, and monitoring.",
+  "skills": [
+    "devops",
+    "cloudcomputing",
+    "containerization"
+  ],
+  "tools": [
+    "docker",
+    "kubernetes",
+    "awscloudwatch"
+  ],
+  "verbose": true,
+  "allow_delegation": true
+}

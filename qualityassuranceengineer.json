@@ -1,0 +1,16 @@
+{
+  "name": "qualityassuranceengineer",
+  "description": "Responsible for testing and ensuring the quality of the application, including unit testing, integration testing, and UI testing.",
+  "skills": [
+    "qaengineering",
+    "testingframeworks",
+    "automation"
+  ],
+  "tools": [
+    "jest",
+    "cypress",
+    "selenium"
+  ],
+  "verbose": true,
+  "allow_delegation": true
+}
